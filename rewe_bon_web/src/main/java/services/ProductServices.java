@@ -15,7 +15,7 @@ import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
 public class ProductServices {
-	public static final String  PDF_PATH= "C:\\Users\\Mosli\\Desktop\\NBs\\Git\\rewebondashboard\\rewe_bon_web\\src\\main\\webapp\\WEB-INF\\pdf\\";
+	public static final String  PDF_PATH= "C:\\Users\\Mosli\\Desktop\\NBs\\Git\\eBon\\rewe_bon_web\\src\\main\\webapp\\WEB-INF\\pdf";
 
 	public static ArrayList<Product> loadItems (String lin) throws IOException{
 		
